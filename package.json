@@ -1,0 +1,20 @@
+{
+  "name": "dev-tinder",
+  "version": "1.0.0",
+  "description": "get connected",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "ed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
